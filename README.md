@@ -1,14 +1,14 @@
 # 📂 AI & Machine Learning Projects Portfolio
 
-**Name:** Akshat Garg  
+**Name:** C Sai Chandana  
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BHI10006
 
-**Application Number:** IN26011052
+**Application Number:** IN26010748
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** chitrakavi.23bhi10006@vitbhopal.ac.in
 
 ---
 
@@ -150,7 +150,3 @@ Trains an autonomous spacecraft agent to safely land on a designated pad using *
 ```
 
 ---
-
-<p align="center">
-  <i>Built with ❤️ by Akshat Garg</i>
-</p>
